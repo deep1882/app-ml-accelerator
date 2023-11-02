@@ -31,7 +31,7 @@ application: ml-accelerator {
 }
 
 constant: CONNECTION_NAME {
-  value: "temp_leadscore_block"
+  value: "looker_bqml"
   # export: override_required
 }
 
